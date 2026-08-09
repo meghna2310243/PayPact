@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+/* body {
+  font-family: Helvetica, sans-serif;
+  margin: 0px;
+} */
+
+.headings
+{
+    font-family: Helvetica, sans-serif;
+    letter-spacing: -1px;
+    font-weight:bolder;
+
+}
+
+.spacing{
+  letter-spacing: -2px;
+}
+
+@font-face {
+  font-family: 'Akira';
+  src: url('/fonts/Akira.otf') format('opentype');
+}
+
+.akira {
+  font-family: 'Akira', sans-serif;
+}
+
